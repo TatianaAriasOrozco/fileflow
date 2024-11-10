@@ -2,6 +2,9 @@
 
 Este proyecto es una aplicación frontend desarrollada con React, que permite a los usuarios autenticados con rol de administrador cargar archivos CSV para la creación de registros en una base de datos. La aplicación recibe la respuesta del servidor, mostrando un resumen de registros cargados correctamente y una lista detallada de los errores, permitiendo la corrección de los mismos.
 
+## Deployd de la aplicación
+https://keen-bunny-068bbf.netlify.app/login
+
 ## Tecnologías Utilizadas
 
 - **React**: Para la construcción de la interfaz de usuario.
