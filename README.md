@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ee282405-6aca-400d-8907-ba2fdce70854)# CSV Upload Management Frontend
+# CSV Upload Management Frontend
 
 Este proyecto es una aplicación frontend desarrollada con React, que permite a los usuarios autenticados con rol de administrador cargar archivos CSV para la creación de registros en una base de datos. La aplicación recibe la respuesta del servidor, mostrando un resumen de registros cargados correctamente y una lista detallada de los errores, permitiendo la corrección de los mismos.
 
